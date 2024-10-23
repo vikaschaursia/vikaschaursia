@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikaschaursia
-- 👀 I’m interested in ...fron-end develeper
+- 👀 I’m interested in ...fron-end developer in (REACT.JS)  and Backend Developerin (NODE.JS)
 - 🌱 I’m currently learning ...MERN Full Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Email and Phone No
